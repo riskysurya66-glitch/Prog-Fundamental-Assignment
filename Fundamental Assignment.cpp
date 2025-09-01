@@ -8,5 +8,4 @@ int main(){
 	cout << " Programming Favourite \t: C++ " <<endl;
 	
 	return 0;
-	
 }
